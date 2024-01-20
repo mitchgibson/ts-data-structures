@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { BinarySearchTree } from "./binary-search-tree";
+import { BinarySearchTree } from "./BinarySearchTree";
 
 describe("BinarySearchTree", () => {
 

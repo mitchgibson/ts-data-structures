@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { HashTable } from './hash-table';
+import { HashTable } from './HashTable';
 
 describe("HashTable", () => {
     describe("#insert", () => {

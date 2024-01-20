@@ -1,5 +1,5 @@
-import { describe, it, expect, beforeEach } from "vitest";
-import { LinkedList, LinkedListNode } from "./linked-list";
+import { describe, it, expect } from "vitest";
+import { LinkedList, LinkedListNode } from "./LinkedList";
 
 describe("Linked List", () => {
 
